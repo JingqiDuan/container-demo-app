@@ -1,0 +1,22 @@
+{
+  "name": "container-demo-app",
+  "version": "1.0.0",
+  "description": "Container demo app 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JingqiDuan/container-demo-app.git"
+  },
+  "author": "Jingqi Duan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JingqiDuan/container-demo-app/issues"
+  },
+  "homepage": "https://github.com/JingqiDuan/container-demo-app#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
