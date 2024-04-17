@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/JingqiDuan/container-demo-app#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "os-utils": "^0.0.14",
+    "socket.io": "^4.7.5"
   }
 }
