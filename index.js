@@ -50,7 +50,7 @@ var lineChartLength = 61;
 var interval = 1000;
 
 app.get('/', (req, res) => {
-    res.status(200).send('Hello, World!');
+    console.log('Demo v3...');
 });
 
 http.listen(port, () => {
