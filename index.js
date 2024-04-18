@@ -13,7 +13,7 @@ var lineChartLength = 61;
 var interval = 1000;
 
 app.get('/', (req, res) => {
-    
+    console.log("demo v1...");
 });
 
 
