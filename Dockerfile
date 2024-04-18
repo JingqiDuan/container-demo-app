@@ -5,6 +5,7 @@ WORKDIR /app
 COPY package*.json ./
 COPY ./public ./
 COPY index.js ./
+COPY demoLog.db ./
 
 RUN npm install
 
